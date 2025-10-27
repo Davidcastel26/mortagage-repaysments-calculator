@@ -1,5 +1,4 @@
-Install 
-
-python3 -m pip --version
-
-python3 -m pip install streamlit
+streamlit>=1.38
+pandas
+numpy
+matplotlib
